@@ -310,7 +310,8 @@ cat ./function
 **What happend?**
 <details>
     <summary>Your Explaination</summary>
-    .....
+        Beide Funktionen wurden gespeichert und können mit cat ./function angezeigt werden. Mann kann die Funton auch     
+        mehrfach Speichern. Mit source ./functon konnte ich die Funktionen auch nach Neustart der Console weiter nutzen. 
 
 </details>
 
