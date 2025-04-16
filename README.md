@@ -263,9 +263,17 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
     <summary>Your Function</summary>
     
 ```bash
-your code
+unbuntu@ubuntu:~$ my_func () { var1=$1; var2=$2;
+if (($var1 > $var2 )); then
+result=$(( $var1 - $var2 ));
+echo "Zahl1 ist um $result größer als Zahl2";
+else if (( $var1 < $var2 )); then 
+result=$(( $var2 -$var1 ));``
+echo "Zahl1 ist um $result kleiner als Zahl2";
+else if [[ $var1 == $var2 ]]; then
+echo "beide Zahlen sind Identisch";
+fi;fi;fi;}
 ```
-
 </details>
 
 ### Task 6: Storing Data
