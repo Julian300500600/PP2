@@ -72,7 +72,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 
 <details>
     <summary>You Answer</summary>
-    Die Funktion wird nicht als mathematische operation sondern als Text wiedergegeben.
+    Die Funktion wird nicht als auszuführende Operation sondern als Text erfasst und kann nicht verarbeitet werden.
 </details>
 
 ### Task 3: Function-Identifiers
