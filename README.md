@@ -310,8 +310,8 @@ cat ./function
 **What happend?**
 <details>
     <summary>Your Explaination</summary>
-        Beide Funktionen wurden gespeichert und können mit cat ./function angezeigt werden. Mann kann die Funton auch     
-        mehrfach Speichern. Mit source ./functon konnte ich die Funktionen auch nach Neustart der Console weiter nutzen. 
+        Im ersten Ablauf wird die Funktion von der letzten declare-Funktion überschrieben.
+        Im zweiten Ablauf sind hingegen beide Funktionen im filesystem vorhanden. 
 
 </details>
 
@@ -354,7 +354,7 @@ You can use a shorthand within your calls to add this string as a prefix to any 
 **Look at task 6 again. What is the complete filepath of your functions file?**
 <details>
     <summary>Your Answer</summary>
-    /home/ubuntu/function
+    /home/vboxuser/function
 </details>
 
 All filenames start with a `/`. 
