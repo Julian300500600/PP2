@@ -378,7 +378,8 @@ cd /
 **Run `ls` again and insert the content here:**
 <details>
     <summary>Your Answer</summary>
-    ....
+    ![cd ls first](https://github.com/user-attachments/assets/73f4f5e9-bc9b-4005-9e50-86ea2afcfa29)
+
 </details>
 
 Now navigate through your filesystem using `cd` and the name of the directory you want to set as your new `pwd`.
@@ -393,9 +394,9 @@ Use `rm` to delete a file and `rm -rf` to delete a directory.
 **Add a directory into your `~` dir and create an empty file in it. Delete the directory again.**
 <details>
     <summary>Your Terminal Output</summary>
-```bash
-your terminal output
-```
+
+    ![cd ls new file](https://github.com/user-attachments/assets/1c2c6d42-6714-441f-9e2c-31c22e41f46f)
+
 </details>
 
 ### Task 10: Managing Software
