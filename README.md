@@ -394,8 +394,7 @@ Use `rm` to delete a file and `rm -rf` to delete a directory.
 **Add a directory into your `~` dir and create an empty file in it. Delete the directory again.**
 <details>
     <summary>Your Terminal Output</summary>
-
-    ![cd ls new file](https://github.com/user-attachments/assets/1c2c6d42-6714-441f-9e2c-31c22e41f46f)
+    ![cd ls new file](https://github.com/user-attachments/assets/331c298c-492e-4328-9bb2-f66c7778c90c)
 
 </details>
 
